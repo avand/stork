@@ -38,6 +38,12 @@ There's still a lot to do:
 * Build in Javascript support (including compression).
 * Finally, make it available as a proper gem.
 
+Acknowledgements
+================
+
+* [Asset Packager](http://synthesis.sbecker.net/pages/asset_packager)
+* [Sass](http://sass-lang.com/)
+
 [blog]: http://avandamiri.com/2010/09/15/managing-styles-with-sass-on-heroku.html
 [compass]: http://compass-style.org/
 [heroku-readonly]: http://docs.heroku.com/constraints#read-only-filesystem

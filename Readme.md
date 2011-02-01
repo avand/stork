@@ -13,8 +13,8 @@ Inspiration
 * [HTTP caching][heroku-caching] is pretty cool and we can leverage it to serve assets lickity-split.
 * We also want:
   * Stylesheets organized in lots of tiny files but that serve as one,
-  * Javascript bundles organized expressively with YAML,
-  * Javascript and CSS compression.
+  * JavaScript bundles organized expressively with YAML,
+  * JavaScript and CSS compression.
 
 Installation
 ============

@@ -9,7 +9,7 @@ Inspiration
 ===========
 
 * Sass - especially the Scss part - is pretty cool and I want to use it in my web apps.
-* Some file systems (aka [Heroku][heroku-readonly]) are read-only so you can't "compile" to disc without dirty hacks.
+* Some file systems (aka [Heroku][heroku-readonly]) are read-only so you can't "compile" to disk without dirty hacks.
 * [HTTP caching][heroku-caching] is pretty cool and we can leverage it to serve assets lickity-split.
 * We also want:
   * Stylesheets organized in lots of tiny files but that serve as one,
